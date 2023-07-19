@@ -1,0 +1,528 @@
+text,x,y
+Carbon arc welding,8.810158,9.205739
+Flux cored arc welding,6.887566,5.1271844
+Gas metal arc welding,8.940374,9.374857
+Shielding gas,8.98382,9.291036
+Plasma arc welding,9.013934,9.13667
+Shielded metal arc welding,8.822533,9.246237
+Submerged arc welding,8.67756,9.056744
+Atomic hydrogen welding,8.8418045,9.173243
+Propane,6.7332153,3.9064248
+Spot welding,8.444763,9.102835
+Drum (container),5.684939,5.105388
+Flash welding,8.376012,9.565647
+Upset welding,8.351254,9.549737
+Cold welding,8.087641,9.050479
+Explosion welding,8.308047,9.364904
+Magnetic pulse welding,8.523682,9.570488
+Forge welding,8.194133,9.173109
+Damascus steel,7.5512176,6.15999
+Friction welding,8.192969,9.516118
+Friction stir welding,8.122313,9.413209
+Hot isostatic pressing,7.8390436,6.70848
+Autoclave,8.429677,6.021617
+Ultrasonic welding,8.084142,9.080202
+Electroslag welding,8.64202,9.417677
+Induction welding,8.34704,8.808251
+Laser beam welding,8.826327,9.457008
+Laser-hybrid welding,8.730941,9.337878
+Percussion welding,8.302739,9.393283
+Electrogas welding,8.61042,9.425237
+Isbn (identifier),3.4073486,6.845984
+Symbols and conventions used in welding documentation,8.408108,9.534336
+Cladding (metalworking),6.6431518,7.838089
+Template:metalworking navbox,3.3764977,6.70711
+Metalworking,7.3821745,6.06813
+Flux-cored arc welding,8.697043,9.266096
+Electric resistance welding,8.402729,9.138188
+Electron-beam welding,8.873476,9.425205
+Exothermic welding,8.23045,8.921161
+Friction stud welding,8.534828,9.659575
+Oxy-fuel welding and cutting,8.564949,9.033446
+Electrode,7.059007,7.7564707
+Filler metal,7.9968657,8.801303
+Welding helmet,8.886869,9.349902
+Welding power supply,8.866716,9.276972
+Robot welding,8.787121,9.394958
+Heat-affected zone,8.443317,9.01113
+Photokeratitis,8.8634615,9.181851
+Weldability,8.292798,9.443636
+Metal fabrication,5.7853246,7.5276017
+Forming processes,6.1288323,8.663664
+Machining,4.9585266,6.661413
+Metallurgy,7.4780626,6.0889463
+Outline of metalworking,6.5346403,8.3495455
+Thermoforming,6.1637793,5.509389
+Centrifugal casting (industrial),6.7894874,8.917147
+Continuous casting,6.8301883,8.87771
+Evaporative-pattern casting,6.893449,9.0545635
+Full-mold casting,6.86223,9.093132
+Lost-foam casting,6.827069,9.053627
+Investment casting,6.890986,9.06264
+Permanent mold casting,6.9635444,8.995153
+Resin casting,6.1082125,4.6986694
+Sand casting,6.8707323,9.006204
+Shell molding,6.935278,9.014866
+Coating,6.774039,7.2282267
+Chemical vapor deposition,8.450773,6.430456
+Sputter deposition,7.9043493,7.1103573
+Thermal spraying,7.5538244,7.5149536
+Powder metallurgy,7.423187,6.7246246
+Sintering,7.3378963,6.745276
+Spray forming,6.911799,8.462607
+Dip moulding,7.111943,8.838409
+Forming (metalworking),6.1556835,8.647264
+Tube beading,6.1396275,8.763298
+Machine press,5.450675,8.463743
+Impact (mechanics),5.9004307,8.002578
+Extrusion,5.7453256,8.53376
+Incremental sheet forming,6.042396,8.725466
+Sheet metal,6.190429,8.160831
+Screw thread,4.5953526,7.7071004
+Impact extrusion,5.6139183,8.164175
+Embossing (manufacturing),5.9590344,8.3315935
+Die (manufacturing),5.511782,8.545342
+Drawing (manufacturing),5.737348,8.40915
+Necking (engineering),6.1402593,8.439274
+Deep drawing,5.867312,8.604577
+Hemming and seaming,5.3553147,8.155244
+Blanking and piercing,5.3981867,8.218391
+Cutting,5.986691,7.550981
+Notching,5.354108,7.886727
+Stamping (metalworking),5.626811,8.464034
+Leather stamping,6.6982727,5.120607
+Progressive stamping,5.599583,8.510744
+Coining (metalworking),5.5875406,8.1872015
+Ironing (metalworking),7.5587635,6.0323963
+Flattening,5.488964,7.854025
+Swaging,5.259781,8.000408
+Metal spinning,6.064305,8.25139
+Peening,6.2290697,8.12015
+Explosive forming,5.957335,8.728058
+Electroforming,6.684012,8.051936
+Staking (manufacturing),5.625483,7.8901634
+Flanging,5.6447678,7.5728917
+Decambering,5.421316,7.8586984
+Cold sizing,5.750284,8.456179
+Hubbing,5.4082317,8.491995
+Hot metal gas forming,6.2795997,8.723672
+Curling (metalworking),5.5091543,8.354915
+Hydroforming,6.258334,8.790251
+Hammer mill,7.5013533,6.0452414
+Ball mill,5.604351,6.464303
+Disc mill,5.5762324,6.747044
+Steel mill,7.71448,5.9150853
+Refining,7.2086353,4.648377
+Pickling (metal),7.4813704,7.9920645
+Facing (machining),5.382971,7.1004424
+Boring (manufacturing),5.3054523,7.205899
+Knurling,5.123578,7.5877585
+Drilling,5.309827,7.3188243
+Friction drilling,5.34695,7.725261
+Planing (shaping),5.1337547,7.2865534
+Abrasive jet machining,5.9456844,7.1068454
+Photochemical machining,6.45511,7.40627
+Honing (metalworking),5.693183,6.9205303
+Sharpening,5.8392506,6.876161
+Industrial finishing,5.3344107,6.7127104
+Burnishing (metal),5.9625487,7.885206
+Electroplating,6.9145722,7.805084
+Electropolishing,6.881795,7.641285
+Etching,6.4789896,7.5166073
+Linishing,5.633465,6.9577727
+Mass finishing,5.8087115,7.025446
+Tumble finishing,5.8619995,6.975825
+Vibratory finishing,5.7087517,7.235595
+Polishing,6.219531,6.969393
+Superfinishing,5.7909794,6.9420667
+Ultrasonic machining,5.951251,7.196988
+Electrical discharge machining,7.02171,7.9313726
+Electrochemical machining,6.905969,7.7645326
+Photochemistry,6.898752,6.7744913
+Laser cutting,6.6021523,7.496302
+Laser drilling,6.7165804,7.328568
+Grinding (abrasive cutting),5.5671544,6.9435806
+High stock removal,6.0222125,7.301632
+Gashing,5.376548,7.231333
+Biomachining,5.8572125,7.2771893
+Short circuit,3.2777736,6.485502
+Stud welding,8.5864,9.625512
+Carbon dioxide,7.314372,3.980724
+Butt welding,8.20303,9.412
+Shot welding,8.298414,9.2216
+Diffusion,8.170109,6.167324
+Vacuum furnace,8.603143,6.2872033
+Dielectric,3.5334814,6.791484
+Infrared,6.8186927,6.7243114
+Vacuum,8.566248,6.281224
+Induction brazing,8.060937,8.440572
+Hot plate,7.968806,8.275426
+Induction heating,8.239003,8.512574
+Dip soldering,7.684813,8.512127
+Wave,6.218159,7.194923
+Adhesive bonding,6.5884366,6.429029
+Thermoplastic,6.2600913,5.0604787
+Epoxy,6.0739374,4.516829
+Polyurethane,5.9339957,4.206955
+Fastener,4.5344234,7.777641
+Screw,4.5379653,7.6736145
+Nut (hardware),4.5706434,7.7765694
+Rivet,4.767604,7.748898
+Pin,4.5202723,7.5769334
+Cotter (pin),4.546163,7.859606
+Taper pin,4.563189,7.7631183
+Spring pin,4.597543,7.798131
+Quick release skewer,4.643797,7.9210477
+Stitch (textile arts),4.554445,7.470564
+Filament winding,5.3313956,8.077963
+Composite material,5.8374405,5.20096
+Laminated object manufacturing,6.842785,7.2140985
+Laser engineered net shaping,6.984072,7.10469
+Selective laser sintering,7.1244593,6.990677
+Spark plasma sintering,7.7061687,6.950953
+Stereolithography,6.6981034,7.143367
+Petroleum refining processes,6.6064286,4.205544
+Assembly line,4.6808553,6.468893
+Lapping,5.7188196,7.109431
+Mortise and tenon,4.644591,7.9468026
+Router (woodworking),5.036049,7.1271896
+Biscuit joiner,4.710846,7.97637
+Heat treating,7.375507,6.9139414
+Bake-out,8.60389,6.1930757
+Electronics,3.249802,6.308259
+Mechanization,4.587428,6.1654596
+Activation energy,7.0708055,6.730448
+Calcination,7.594631,4.7111745
+Calcium carbonate,7.6669726,4.649414
+Calcium oxide,7.585956,4.854571
+By-product,4.379674,3.8736591
+Flux (metallurgy),7.877739,8.496017
+Carbon monoxide,7.080327,4.0008054
+Ore,7.3579865,5.6414027
+Iron ore,7.490728,5.751072
+Ammonia production,7.866946,4.1499934
+Chemical process,7.0899725,4.4368534
+Pyroprocessing,7.2346063,4.6909404
+Cement kiln,7.5097156,4.807592
+Gilding,6.736589,7.8040013
+Electrolytic process,7.1059775,7.689308
+Electrophoretic deposition,7.1226883,7.596608
+Electrotyping,6.738037,7.809911
+Metallizing,6.945257,7.8609586
+Spin coating,6.518295,7.222063
+Shearing (manufacturing),5.5274577,8.0424
+Plasma cutting,7.037019,8.074631
+Steelmaking,7.910688,5.712762
+Precipitation hardening,7.5102696,7.029988
+Shot peening,6.226847,8.211663
+Electric arc furnace,8.665359,8.877751
+Open hearth furnace,7.873964,5.8243604
+Direct reduced iron,7.7773232,5.752577
+Cementation process,7.6698155,5.6547093
+Basic oxygen steelmaking,7.8291464,5.836296
+Plastic container,5.248831,4.2621202
+Comminution,6.242581,7.3497295
+Froth flotation,7.1550083,5.0847764
+Liquid%e2%80%93liquid extraction,8.407335,5.495257
+Frasch process,7.333299,4.3424864
+Volatility (chemistry),8.552519,6.1256847
+Condensation,8.506157,6.109976
+Fractional distillation,8.670263,5.6987066
+Steam distillation,8.688306,5.716235
+Vacuum distillation,8.685883,6.003946
+Batch distillation,8.676662,5.752917
+Continuous distillation,8.736045,5.793183
+Fractionating column,8.693922,5.759739
+Spinning cone,5.036074,3.2593212
+Photolithography,6.5921288,7.208549
+Cracking (chemistry),6.9098516,4.23191
+Alkylation,6.3633127,3.7779818
+Burton process,7.082729,4.364159
+Cumene process,6.760619,3.78171
+Thermal depolymerization,6.6243267,4.5723405
+Raschig hydroxylamine process,7.841773,4.224426
+Hydroxylamine,7.9097238,4.087465
+Deville process,7.9263287,4.767965
+Bayer process,7.7647333,4.951816
+W%c3%b6hler process,8.134507,5.0275087
+Ammonia,7.919027,4.1801076
+Chloralkali process,8.003859,4.498098
+Weldon process,8.0528755,4.4901614
+Nitrophosphate process,7.982388,4.2880507
+Float glass,6.701586,6.0269413
+Bacterial oxidation,7.27493,4.9542756
+Parkes process,7.7813516,5.273962
+Acheson process,7.7497725,5.0443497
+Heavy water,7.6963267,4.070641
+Water%e2%80%93gas shift reaction,7.755548,4.1034904
+Steam reforming,7.638847,4.162319
+Betts electrolytic process,7.2775297,7.5923796
+Mond process,7.70624,4.7006254
+Nitric acid,7.826182,4.0378103
+Ostwald process,7.9480944,4.044331
+Kraft process,5.86399,4.5453706
+Alberger process,8.134308,4.72798
+Grainer evaporation process,8.196864,4.7249346
+Semiconductor,3.4104898,6.672047
+Czochralski method,6.8423142,6.1167855
+Patio process,7.7399964,5.3734136
+Silicon carbide,7.1199183,5.830498
+Sodium carbonate,7.831589,4.4197845
+Leblanc process,7.7610474,4.43837
+Solvay process,7.760438,4.4184427
+Lead chamber process,7.4704285,4.1600113
+Contact process,7.4866023,4.154057
+Hunter process,7.976394,4.7059965
+Kroll process,7.987233,4.9426727
+Zirconium,7.256324,5.898538
+Pidgeon process,7.9786873,4.918096
+Formox process,7.60971,3.9527054
+Chemical engineering,6.7080145,4.1493697
+Template talk:industries,2.9272404,3.9689636
+Industry (economics),2.8969476,4.094139
+Primary sector of the economy,3.5285351,3.6854696
+Vegetable farming,4.17249,2.9478672
+Vegetable oil,6.3536115,4.133718
+Sugar industry,4.333014,3.3845305
+Permanent crop,4.1869245,3.0527773
+Pome,4.407211,2.891456
+Drupe,4.494311,2.9146538
+Viticulture,4.7326226,3.1406722
+Horticulture industry,4.1915846,3.1150973
+Floral industry,4.1663013,3.123432
+Seed company,4.175629,3.1042366
+Beef cattle,3.6035986,3.019285
+Horse industry,3.3108122,3.249434
+Livestock,3.5891364,3.0798526
+Beekeeping,4.576197,3.4980395
+Lac,4.33072,2.8502374
+Forestry,4.391836,3.800658
+Silviculture,4.449185,3.8255017
+Bamboo cultivation,4.22746,3.2823017
+Logging,4.796788,4.4653716
+Palm syrup,4.82623,3.0676188
+Naval stores industry,4.988077,4.554313
+Mushroom hunting,4.3552537,2.550431
+Cod fisheries,4.0629888,2.2620096
+Crab fisheries,4.047217,2.3664508
+Lobster fishing,4.092398,2.3325253
+Aquaculture,3.9815192,2.4721174
+Aquaculture of catfish,3.978642,2.4626822
+Aquaculture of tilapia,4.063673,2.393413
+Oyster farming,4.162748,2.3757408
+Cultured pearl,4.281148,2.4642766
+Culture of microalgae in hatcheries,4.1486473,2.604033
+Seaweed farming,4.1411486,2.5554438
+Clam digging,5.6173763,6.073339
+Oil shale industry,6.3973794,4.2582293
+Silver mining,7.4691896,5.593306
+Uranium mining,7.405398,5.374038
+Gravel pit,5.901377,5.920533
+Sand mining,5.8435316,5.9591007
+Chalk mining,5.894443,5.886026
+Clay pit,5.95271,5.8995557
+Light industry,3.1969402,3.9153645
+Food industry,3.6684015,3.264419
+Feed manufacturing,3.6837697,3.1415923
+Meat industry,3.4954264,3.1463695
+Candy making,4.643372,3.590011
+Drink industry,4.3543673,3.4379818
+Winemaking,4.818175,3.201011
+Dyeing,5.5188847,4.9810095
+Textile printing,5.232732,5.1720657
+Weaving,4.670056,7.4403715
+Carpet,5.2957845,5.063492
+Linens,5.1245894,5.177678
+Clothing industry,3.2695935,4.5845585
+Fashion accessory,4.4532857,7.2887254
+Paper embossing,5.8027425,8.264429
+Security printing,5.620972,7.9226766
+Builders hardware,4.298049,7.1252604
+Household hardware,4.277477,6.9287653
+Gunsmith,4.5291944,6.3996553
+Locksmithing,4.585871,6.6075945
+Machine shop,4.4289117,6.256746
+Surface finishing,5.9918365,7.0476685
+Glassblowing,6.6807885,5.98786
+Stonemasonry,5.699333,6.5548906
+Furniture,4.999786,5.442145
+Bicycle industry,2.957155,3.8556802
+Medical device,3.5802124,5.4556746
+Office supplies,5.124001,4.8098407
+Electronics industry,3.1473472,6.0921807
+Electronic component,3.2107482,6.4046516
+Semiconductor industry,3.1225789,6.0988164
+Telecommunications equipment,3.0571988,5.960384
+Network equipment provider,2.9883595,5.783779
+Instrumentation,4.4580517,6.2046237
+Clockmaker,4.4779177,6.3557224
+Optical instrument,6.5454593,6.813085
+Spotting scope,6.447655,6.816476
+Laser construction,7.0290365,7.0905
+Optical manufacturing and testing,6.520799,6.936428
+Electrical device,3.3430738,6.2009735
+Electrical cable,3.2961893,6.3002787
+Transformer,8.227169,8.536989
+Chemical industry,7.323314,4.2800446
+Jet fuel,6.669219,3.9917114
+Paraffin wax,6.533266,4.3154716
+Petrochemical,6.2182436,3.8849018
+Synthetic oil,6.234897,3.92657
+Tar,6.2351127,4.417801
+Commodity chemicals,5.3824263,3.7070549
+Industrial gas,6.719066,3.9380517
+Speciality chemicals,5.743419,3.611909
+Agrochemical,5.5609956,3.6013992
+Cleaning agent,6.784449,4.80733
+Cosmetics,5.856468,3.6906974
+Paint,5.6104336,5.2659636
+Ink,5.537642,5.194874
+Perfume,6.612596,3.9156694
+Production of antibiotics,5.6493344,3.5448442
+Blood product,6.350645,3.710773
+Generic drug,5.6669145,3.5654595
+Illegal drug trade,2.6001632,5.2375774
+Liming (leather processing),6.795897,5.069353
+Deliming,6.9708076,4.917904
+Tanning (leather),5.9955816,4.839332
+Currier,6.3425174,4.668727
+Oiling (leather processing),6.4075313,4.572383
+Wood drying,5.7560716,4.547331
+Sawmill,4.8847485,4.743814
+Wood-plastic composite,5.7200575,4.6991715
+Pulp and paper industry,5.305979,4.7803535
+Cardboard,5.221275,4.7995872
+Pulp (paper),5.2921133,4.867077
+Tissue paper,5.279801,4.852432
+Synthetic rubber,5.84311,4.208119
+Plastics industry,5.707925,4.101416
+Commodity plastics,5.3713765,4.1669908
+Engineering plastic,5.7377596,4.2734814
+High-performance plastics,5.8001456,4.3322015
+Pelletizing,7.520346,5.673592
+Synthetic fiber,5.756871,4.6464796
+Thermosetting polymer,6.151827,4.9152207
+Borosilicate glass,6.6809144,5.9433722
+Fused quartz,6.757066,5.8778915
+Soda%e2%80%93lime glass,6.965439,5.599316
+Glass wool,6.591879,5.78712
+Safety glass,6.6007466,5.862165
+Ceramic,6.5193195,5.67042
+Earthenware,6.28021,5.64465
+Mortar (masonry),5.9542565,5.365331
+Ready-mix concrete,6.0053368,5.2428627
+Abrasive,5.9979334,6.678537
+Mineral wool,6.820004,5.699794
+Ironworks,7.6694965,5.842206
+Aluminium smelting,7.99323,5.3324537
+Copper extraction,7.529097,5.640812
+Alloy,7.2819953,6.2145133
+Heavy industry,2.985888,3.941851
+Machine industry,3.807746,5.7938814
+Machine tool builder,4.246362,6.1383495
+Turbo generator,3.787065,6.339059
+Automotive industry,2.900367,3.8376095
+Oil platform,6.272397,4.3144174
+Public utility,3.0914497,5.381671
+Electric power industry,3.4512253,6.1399317
+Water industry,4.402101,3.7052188
+Waste management industry,4.66022,3.9050984
+Waste collection,4.8644485,4.1458335
+Hazardous waste,5.02351,4.030817
+Environmental remediation,4.887874,3.9914987
+Telecommunications industry,2.9371016,5.6924095
+Cable television,3.0116735,5.9184456
+Communications satellite,3.0911043,5.848048
+Telephone company,2.9703696,5.746336
+Commercial property,3.1251023,4.4440575
+Industrial architecture,3.9310832,5.700771
+Home construction,3.6113477,4.967072
+Cabinetry,4.9374876,5.494859
+Elevator mechanic,4.450834,6.334855
+House painter and decorator,4.1749697,5.3884053
+Earthworks (engineering),5.3099775,5.7941985
+Fast-moving consumer goods,3.627,3.9975553
+Department store,3.363351,4.0927377
+Mail order,3.9382231,4.2528324
+Specialty store,3.525488,4.046165
+Broker,2.737288,4.991626
+Distribution (marketing),3.6400728,4.240616
+Air cargo,4.5953107,4.401786
+Intermodal freight transport,4.7794523,4.4286714
+Mail,4.2224846,4.479609
+Rail freight transport,4.5640817,4.3603234
+Car rental,2.8104603,4.0603833
+Warehouse,4.6015916,4.552801
+Self storage,3.2189627,4.4471254
+Hospitality industry,3.0078368,4.2485228
+Drinking establishment,3.072754,4.4941487
+Food delivery,3.670185,4.1061344
+Asset management,2.4085686,4.5217576
+Payment card industry,3.2646825,4.219493
+Risk management,2.310068,4.4319773
+Life insurance,2.2993686,4.493758
+Pension fund,2.3696146,4.474954
+Real estate economics,3.2104356,4.6263123
+Property management,2.5276945,4.567486
+Professional services,2.6137202,4.541893
+Accounting network,2.678726,4.260021
+Tax advisor,2.631083,4.4770784
+Architectural firm,3.8738828,5.607057
+Inspection,4.6328325,5.6200438
+Surveying,4.66268,5.7846746
+Physical test,4.539355,5.3064823
+System testing,4.4284034,5.398463
+Design,4.2265096,5.8485065
+Fashion design,4.3918104,5.928706
+Industrial design,4.220096,5.828063
+Management,2.5028617,4.582634
+Consulting firm,2.6790373,4.7168717
+Advertising industry,2.6956174,4.80017
+Healthcare industry,2.9617743,3.916569
+Residential care,3.7581782,4.998202
+Leisure industry,2.6466377,4.691687
+Online gambling,2.5952394,5.2330017
+Amusement arcade,2.8090153,5.7737007
+Amusement park,2.7542434,5.590095
+Customer service,3.0928187,4.5255117
+Employment agency,3.9420047,5.378922
+Janitor,3.9724128,4.9753814
+Landscape maintenance,4.1628914,4.5192723
+Dry cleaning,5.8727326,4.6406775
+Maid service,3.8909535,4.8770885
+Pet industry,3.319241,3.2676466
+Sex industry,2.7181454,4.6950583
+Poverty industry,2.7576172,4.0903177
+Cruise line,3.0719376,4.274622
+Quaternary sector of the economy,3.3044517,3.7490218
+Periodical literature,3.8192465,4.3277917
+Radio industry,2.8147583,5.1740685
+Social networking service,3.308808,4.970233
+Primary education,3.8449235,4.9794807
+Standardized test,4.280871,5.206049
+Tutoring,3.7796757,5.0864654
+Creative industries,2.7289658,4.6181808
+Language industry,2.8330317,4.795351
+Research and development,2.985327,4.7924857
+Industry classification,2.9725041,4.047966
+Factors of production,3.7617521,4.0840836
+Output (economics),3.8344047,4.157662
+Externality,3.5414815,4.4954224
+Community,3.431203,4.8512754
+Crime,2.6316257,5.125446
+Well-being,3.6104062,4.516516
+Funding,2.7081563,4.4062185
+Commodity,3.9680429,3.9407434
+Final good,3.9118783,3.9715
+Intermediate good,4.0316997,3.9257758
+Raw material,4.233265,3.566928
+Work (human activity),3.6786714,4.885745
+Natural resource,4.041147,3.80213
+Physical capital,3.754452,4.137978
+Service (economics),3.2181425,4.5201735
+Cartel,2.7951279,5.121996
+Monopoly,3.0026336,5.0686145
+Outsourcing,3.0180357,4.839603
+Putting-out system,4.1287565,5.713327
+Corporate spin-off,3.0623689,4.9507546
+Outline of industry,3.090796,3.9327686
